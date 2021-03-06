@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\15.1\15.1\bin\Debug\15.1.exe.config
+C:\Users\kiril\source\repos\15.1\15.1\bin\Debug\15.1.exe
+C:\Users\kiril\source\repos\15.1\15.1\bin\Debug\15.1.pdb
+C:\Users\kiril\source\repos\15.1\15.1\obj\Debug\15.1.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\15.1\15.1\obj\Debug\_15._1.Form1.resources
+C:\Users\kiril\source\repos\15.1\15.1\obj\Debug\_15._1.Properties.Resources.resources
+C:\Users\kiril\source\repos\15.1\15.1\obj\Debug\15.1.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\15.1\15.1\obj\Debug\15.1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\15.1\15.1\obj\Debug\15.1.exe
+C:\Users\kiril\source\repos\15.1\15.1\obj\Debug\15.1.pdb
